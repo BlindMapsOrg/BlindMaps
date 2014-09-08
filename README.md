@@ -16,3 +16,7 @@ Learn more on www.blindmaps.org
 - 3D Design source files for the Prototype Casings:
 - Documentation for RDduiono setup: 
 - Our Manifesto: 
+
+# Get involved
+
+Blindmaps.org is licencend under the Creative Commons Attribution-NonCommercial 4.0 International License. www.blindmaps.org/collaboration/
