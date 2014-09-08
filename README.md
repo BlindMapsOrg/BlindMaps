@@ -9,7 +9,9 @@ Using mostly open hardware/software, we are building a series of simple & low-co
 
 These prototypes can be connected to smartphones and beacons using Bluetooth Low Energy (such as iBeacon) and can be rebuilt, improved and be modified by Makers around the globe.
 
-# Information & Documentation 
+Learn more on www.blindmaps.org
+
+# Source, Information & Documentation 
 
 - 3D Design source files for the Prototype Casings:
 - Documentation for RDduiono setup: 
