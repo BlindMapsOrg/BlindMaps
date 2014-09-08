@@ -11,5 +11,6 @@ These prototypes can be connected to smartphones and beacons using Bluetooth Low
 
 # Information & Documentation 
 
-- 3D Designs for the Prototype Casings:
+- 3D Design source files for the Prototype Casings:
 - Documentation for RDduiono setup: 
+- Our Manifesto: 
