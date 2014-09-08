@@ -11,12 +11,12 @@ These prototypes can be connected to smartphones and beacons using Bluetooth Low
 
 Learn more on www.blindmaps.org
 
-# Source, Information & Documentation 
+## Source, Information & Documentation 
 
 - 3D Design source files for the Prototype Casings:
 - Documentation for RDduiono setup: 
 - [Our Manifesto](https://github.com/BlindMapsOrg/BlindMaps/blob/master/Manifesto/Manifesto.md)
 
-# Get involved
+## Get involved
 
 Blindmaps.org is licencend under the Creative Commons Attribution-NonCommercial 4.0 International License. www.blindmaps.org/collaboration/
