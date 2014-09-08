@@ -15,7 +15,7 @@ Learn more on www.blindmaps.org
 
 - 3D Design source files for the Prototype Casings:
 - Documentation for RDduiono setup: 
-- Our Manifesto: 
+- [Our Manifesto](https://github.com/BlindMapsOrg/BlindMaps/blob/master/Manifesto/Manifesto.md)
 
 # Get involved
 
