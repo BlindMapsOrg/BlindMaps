@@ -17,8 +17,12 @@ For the prototypes we used some basic prototype tools to test the concept (Ardui
 
 For the canes we used an RFduino bluetooth module together with some miniature vibration motors. This all powered by two AAA-batteries. For the beacons we used a RFduino linked to a Arduino with a MP3-shield. 
 
-## Links to major electronic components:
+Links to major electronic components:
+- www.rfduino.com 
+- www.arduino.cc
+- www.sparkfun.com/products/10628
 
-www.rfduino.com 
-www.arduino.cc
-https://www.sparkfun.com/products/10628
+# iOS Demo App
+
+We used an iOS Demo App to send vibrations for left/right to one handle. This demo app is based on the RFduiono example apps:
+- https://github.com/RFduino/RFduino/tree/master/iPhone%20Apps
