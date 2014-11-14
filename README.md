@@ -13,8 +13,8 @@ Learn more on www.blindmaps.org
 
 ## Source, Information & Documentation 
 
-- 3D source files (both STL and IGES) for the prototype casings
-- Documentation for prototype setup 
+- [3D source files (both STL and IGES) for the prototype casings](https://github.com/BlindMapsOrg/BlindMaps/tree/master/3D_Source)
+- [Documentation for prototype setup](https://github.com/BlindMapsOrg/BlindMaps/tree/master/Documentation)
 - [Our Manifesto](https://github.com/BlindMapsOrg/BlindMaps/blob/master/Manifesto/Manifesto.md)
 
 ## Get involved
