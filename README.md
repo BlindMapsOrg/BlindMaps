@@ -13,8 +13,8 @@ Learn more on www.blindmaps.org
 
 ## Source, Information & Documentation 
 
-- 3D Design source files for the Prototype Casings:
-- Documentation for RDduiono setup: 
+- 3D source files (both STL and IGES) for the prototype casings
+- Documentation for prototype setup 
 - [Our Manifesto](https://github.com/BlindMapsOrg/BlindMaps/blob/master/Manifesto/Manifesto.md)
 
 ## Get involved
